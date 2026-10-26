@@ -1,0 +1,1 @@
+cmake -G "Visual Studio 17 2022" -A x64 -T v141 -DMAYA_VERSION=2022 -S . -B ./build2022

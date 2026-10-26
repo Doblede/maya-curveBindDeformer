@@ -1,0 +1,1 @@
+cmake --build ./build2022 --config Release --target install
